@@ -1,5 +1,4 @@
 {
-  "compileOnSave": true,
   "compilerOptions": {
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
@@ -9,7 +8,8 @@
     "noImplicitAny": true,
     "sourceMap": true,
     "suppressImplicitAnyIndexErrors": true,
-    "target": "es5"
+    "target": "es5",
+    "watch": true
   },
   "exclude": [
     "node_modules"
