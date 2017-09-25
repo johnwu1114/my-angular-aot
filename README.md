@@ -1,13 +1,14 @@
 This repository is sample code for Angular 4 (Angular 2) SPA.  
 Use the Visual Studio Code to development.  
 
-# Angular 4 教學 - 從頭開始
+# Angular 4 教學 - Webpack 預先編譯 Ahead-of-Time (AOT)
 
-有不只一位前端工程師問我，為什麼要用 Visual Studio 2017 做為 Angular 4 教學工具，他們又不寫 .NET，所以我重新改用 Visual Studio Code 來做為 Angular 4 的開發工具。  
-本篇將介紹如何開始撰寫 Angular 4 (Angular 2)，包含各項套件的安裝說明及相依關係。
+之前用 Angular 4 開發後台系統，使用者都是在 PC 上面使用，網站啟動速度都很快，所以沒有使用到 Ahead-of-Time (AOT) 預先編譯的需求。  
+最近新產品上線，遇到很多 Android 的使用者開啟網站超級慢，舊一點的機型甚至開一分鐘才有畫面。事後才趕緊補上 AOT 編譯。  
+本篇將介紹用 Webpack 預先編譯 AOT 編譯。  
 
 Blog：  
-[Angular 4 教學 - 從頭開始](https://blog.johnwu.cc/article/angular-4-教學-從頭開始.html)  
+[Angular 4 教學 - Webpack 預先編譯 Ahead-of-Time (AOT)](https://blog.johnwu.cc/article/angular-4-webpack-ahead-of-time.html)  
 
 ## 說明
 
