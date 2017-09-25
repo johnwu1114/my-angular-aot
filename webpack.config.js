@@ -3,16 +3,17 @@ var webpack = require("webpack");
 module.exports = {
     cache: true,
     entry: {
-        "bundle": [__dirname + "/app/main.ts"],
+        //"bundle": [__dirname + "/app/main.ts"],
+        "bundle": [__dirname + "/app/main-aot.ts"],
         "bundle-vendors": [
             "core-js",
             "zone.js",
             "rxjs",
             "@angular/core",
             "@angular/common",
-            "@angular/compiler",
+            //"@angular/compiler",
             "@angular/platform-browser",
-            "@angular/platform-browser-dynamic",
+            //"@angular/platform-browser-dynamic",
             "@angular/http",
             "@angular/router",
             "@angular/forms"
