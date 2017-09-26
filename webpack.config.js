@@ -9,14 +9,14 @@ module.exports = {
             "core-js",
             "zone.js",
             "rxjs",
-            "@angular/core",
-            "@angular/common",
-            //"@angular/compiler",
-            "@angular/platform-browser",
-            //"@angular/platform-browser-dynamic",
-            "@angular/http",
-            "@angular/router",
-            "@angular/forms"
+            // "@angular/core",
+            // "@angular/common",
+            // "@angular/compiler",
+            // "@angular/platform-browser",
+            // "@angular/platform-browser-dynamic",
+            // "@angular/http",
+            // "@angular/router",
+            // "@angular/forms"
         ]
     },
     output: {
