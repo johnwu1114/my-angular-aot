@@ -24,3 +24,9 @@ Blog：
 ``` batch
 npm install
 ```
+
+啟動範例：
+
+``` batch
+npm run dev
+```
